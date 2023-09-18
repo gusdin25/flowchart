@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T14:09:54.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="G__Pq-J63ZuZ-murh6yL" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T14:10:30.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="o6SGvGep72l13GSK8qHd" version="21.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,8 +70,14 @@
         <mxCell id="LPeFusDSENl2MgYM5kZ1-23" value="Data dikirim dari lora transmitter ke receiver" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="170" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LPeFusDSENl2MgYM5kZ1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LPeFusDSENl2MgYM5kZ1-26" target="LPeFusDSENl2MgYM5kZ1-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LPeFusDSENl2MgYM5kZ1-26" value="NodeMCU mengirim data yang diterima dari lora ke Web Server&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="375" y="270" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LPeFusDSENl2MgYM5kZ1-28" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="390" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
